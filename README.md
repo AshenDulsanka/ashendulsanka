@@ -2,7 +2,6 @@
 <h3 align="center">Hey there! I'm an undergraduate at NSBM Green University Sri Lanka. I'm currently in my first year and I'm just 19 years old. I love to code! It's my absolute passion and I can't get enough of it.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashendulsanka&label=Profile%20views&color=0e75b6&style=flat" alt="ashendulsanka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashendulsanka" target="blank"><img src="https://img.shields.io/twitter/follow/ashendulsanka?logo=twitter&style=for-the-badge" alt="ashendulsanka" /></a> </p>
 
