@@ -2,6 +2,7 @@
 <h3 align="center">Hey there! I'm an undergraduate at NSBM Green University Sri Lanka. I'm currently in my first year and I'm just 19 years old. I love to code! It's my absolute passion and I can't get enough of it.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26e19e95bb4c3c34508403f4c309ba3f5dd12ffaf9708bd38978af27fd51c372/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d617368656e64756c73616e6b61266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/26e19e95bb4c3c34508403f4c309ba3f5dd12ffaf9708bd38978af27fd51c372/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d617368656e64756c73616e6b61266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="ashendulsanka" data-canonical-src="https://komarev.com/ghpvc/?username=ashendulsanka&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ashendulsanka" target="blank"><img src="https://img.shields.io/twitter/follow/ashendulsanka?logo=twitter&style=for-the-badge" alt="ashendulsanka" /></a> </p>
 
