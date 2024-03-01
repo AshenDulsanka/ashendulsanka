@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashendulsanka" target="blank"><img src="https://img.shields.io/twitter/follow/ashendulsanka?logo=twitter&style=for-the-badge" alt="ashendulsanka" /></a> </p>
 
-- 🌱 I’m currently following **a CyberSecurity Degree and learning about bug bounties**
+- 🌱 I’m currently following **a CyberSecurity Degree**
 
 - 📫 How to reach me **ashendul@gmail.com**
 
