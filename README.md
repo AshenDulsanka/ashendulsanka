@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ashen Abeysekara</h1>
-<h3 align="center">Hey there! I'm an undergraduate at NSBM Green University Sri Lanka. I'm currently in my second year and I'm just 19 years old. I'm interested in hacking and coding! It's my absolute passion and I can't get enough of it.</h3>
-
-<p align="left"> <a href="https://twitter.com/ashendulsanka" target="blank"><img src="https://img.shields.io/twitter/follow/ashendulsanka?logo=twitter&style=for-the-badge" alt="ashendulsanka" /></a> </p>
-
 - 🌱 I’m currently following **a CyberSecurity Degree**
 
 - 📫 How to reach me **ashendul@gmail.com**
