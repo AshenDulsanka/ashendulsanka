@@ -5,7 +5,7 @@
 - 📫 How to reach me **ashendul@gmail.com**
 
 ### Connect with me
-  - [x/twitter](https://twitter.com/ashendulsanka)
+  - [x/twitter](https://twitter.com/knivzz)
   - [linkedin](https://linkedin.com/in/ashen-abeysekara)
   - [website](https://ashendulsanka.github.io)
   - [instagram](https://instagram.com/ashennn.___)
