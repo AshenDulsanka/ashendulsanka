@@ -1,7 +1,5 @@
 - 🙌 Hello there, I'm Ashen Abeysekara
-
 - 🌱 I’m currently following **a CyberSecurity Degree**
-
 - 📫 How to reach me **ashendul@gmail.com**
 
 ### Connect with me
