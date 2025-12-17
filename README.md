@@ -1,5 +1,4 @@
 - 🙌 hello there, i'm ashen dulsanka
-- 🌱 i’m currently following **a cybersecurity degree**
 - 👀 always on the lookout for development and security research
 
 - connect with me
